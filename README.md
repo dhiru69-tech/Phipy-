@@ -42,8 +42,9 @@
 ✅ 100% Beginner Friendly  
 
 ## Tool Preview 📸
-
+<img width="670" height="465" alt="Image" src="https://github.com/user-attachments/assets/d5144231-2319-4a91-8efd-7d295fa846eb" />
 ---
+
 ## 🐧 Linux Installation
 ```bash 
 
