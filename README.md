@@ -19,16 +19,6 @@
 
 ---
 
-## 📑 Table of Contents
-- [✨ Features](#-features)
-- [⚙️ Requirements](#️-requirements)
-- [🚀 Installation](#-installation)
-- [🖥️ Usage](#️-usage)
-- [📸 Screenshots](#-screenshots)
-- [⚡ Example Output](#-example-output)
-- [⚠️ Disclaimer](#️-disclaimer)
-- [👨‍💻 Author](#-author)
-- [© Copyright](#-copyright)
 
 ---
 
@@ -97,5 +87,19 @@ python3 Phipy-.py
 
 ---
 
+---
+
+<p align="center">
+  <b>Credit</b>  
+  <br><br>
+  <a href="https://github.com/dhiru69-tech">
+    <img src="https://img.shields.io/badge/GitHub-dhiru69--tech-red?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/devil_dhiru69">
+    <img src="https://img.shields.io/badge/Instagram-@devil__dhiru69-ff0000?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
 
 
