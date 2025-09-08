@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 # Run the tool
 python3 iptracker.py
-python3 Phipy-.py
+python3 phipy-.py
 ```
 ---
 
