@@ -32,7 +32,7 @@
 ✅ 100% Beginner Friendly  
 
 ## Tool Preview 📸
-<img width="670" height="465" alt="Image" src="https://github.com/user-attachments/assets/d5144231-2319-4a91-8efd-7d295fa846eb" />
+![Image](https://github.com/user-attachments/assets/f0cb819c-7fa5-48dc-a1a7-2f72d9e99f8b)
 ---
 
 ## 🐧 Linux Installation
