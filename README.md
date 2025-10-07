@@ -43,6 +43,9 @@ git clone https://github.com/dhiru69-tech/Phipy-.git
 
 # Enter the folder
 cd Phipy-
+#Create a virtual environment
+python3 -m venv venv
+venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
